@@ -1,3 +1,3 @@
-Hello World
-Today's date: 
-Your current directory is: /c/Users/ritik/OneDrive/Desktop/TestMIT
+echo "Hello World"
+echo "Today's date: $date" 
+echo "Your current directory is: $pwd"
